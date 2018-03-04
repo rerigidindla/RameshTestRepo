@@ -1,5 +1,5 @@
 #!/bin/sh
-JENKINS_VERSION="2.0-rc-1"
+JENKINS_VERSION="2.86"
 ###
 # Automatic install docker with script
 # @see <a href="https://docs.docker.com/engine/installation/linux/centos/">Installation on CentOS</a>
